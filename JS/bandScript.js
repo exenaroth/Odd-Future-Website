@@ -1,3 +1,5 @@
+/*functionality for tab system taken from W3schools at howto_js_tabs.asp */
+
 function openCity(evt, cityName) {
     // Declare all variables
     var i, tabcontent, tablinks;
@@ -18,3 +20,5 @@ function openCity(evt, cityName) {
     document.getElementById(cityName).style.display = "block";
     evt.currentTarget.className += " active";
 }
+
+document.getElementById("logo").click();

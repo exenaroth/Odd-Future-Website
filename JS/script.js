@@ -13,10 +13,13 @@ $(document).ready(function($) {
       //Expand or collapse this panel
       $(this).next().slideToggle('fast');  
 
-    });
+      
 
+    });
+     document.getElementById("logo").click();
      /*this is to make sure that the video size changes depending on the size of the scren*/
     $('.iFrame').css('height', $(window).height()-'px');
+
 
     
   });
