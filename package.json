@@ -1,0 +1,19 @@
+{
+  "name": "of-website",
+  "version": "1.0.0",
+  "description": "A website displaying the success of the band \"odd future.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exenaroth/Odd-Future-Website.git"
+  },
+  "author": "bailey shaw",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/exenaroth/Odd-Future-Website/issues"
+  },
+  "homepage": "https://github.com/exenaroth/Odd-Future-Website#readme"
+}

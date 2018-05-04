@@ -1,16 +1,6 @@
 
-#contentContainer{
-	padding-top: 100px;
-	height:1000px;
-	width:90%;
-	background: linear-gradient(#95bce0, #2a5a82);
-	color:white;
-	text-align: center;
-	margin-right: auto;
-	margin-left: auto;
-	padding-left: 20px;
-	padding-right: 20px;
-
+body{
+	background-color: #4E7BA2;
 }
 
 .reviews{
@@ -61,7 +51,7 @@ display:inline-block;
 /* Write a javascript function that states if browser is mobile size, background is changed*/
 @media screen and (max-width: 700px){
 	body{
-		background-image:url("C:/Users/Exenaroth/Desktop/Odd Future Website/Images/homebackg.png");
+		background-color: #4E7BA2;
 	}
 	#contentContainer{
 		padding-top: 100px;

@@ -3,11 +3,19 @@ html,body{
 	margin:0px;
 }
 
-body{
-	background-image:url("C:/Users/Exenaroth/Documents/OF-Website/Images/background.png");
-	background-size: cover;
-}
+#contentContainer{
+	padding-top: 100px;
+	height:1000px;
+	width:90%;
+	
+	color:white;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 20px;
+	padding-right: 20px;
 
+}
 
 #navContainer{
 	display:flex;
@@ -59,6 +67,15 @@ body{
 	text-align: center;
 	color:white;
 	font-family: 'Do Hyeon', sans-serif;
+}
+p{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+li{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+h1,h2,h3{
+	font-family: 'Noto Sans', sans-serif;
 }
 
 

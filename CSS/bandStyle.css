@@ -8,6 +8,11 @@ p{
     text-align: left;
     font-family: 'Do Hyeon', sans-serif;
 }
+
+body{
+    background-color: #B96476;
+}
+
 .pDiv{
     display: inline-block;
     width: 50%;
@@ -29,7 +34,6 @@ p{
 	padding-top: 100px;
 	height:100%;
 	width:90%;
-	background: linear-gradient(#edabba, #a84d61);
 	color:white;
 	text-align: center;
 	margin-right: auto;
