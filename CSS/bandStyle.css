@@ -2,11 +2,11 @@ h2{
     text-align: center;
     font-weight: 2000;
     color:#F93F8E;
-    font-family: 'Titan One', cursive;
+    
 }
 p{
     text-align: left;
-    font-family: 'Do Hyeon', sans-serif;
+   font-size: 1.5em;
 }
 
 body{
@@ -23,6 +23,13 @@ body{
     width:50%;
 }
 
+#buttonColour{
+    background-color: #edabba;
+}
+#buttonColour:hover{
+    background-color: #f2b8c4
+}
+
 #headContainer{
 	margin-left: auto;
 	margin-right: auto;
@@ -32,15 +39,12 @@ body{
 
 #contentContainer{
 	padding-top: 100px;
-	height:100%;
+	height:auto;
 	width:90%;
 	color:white;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
-	padding-left: 20px;
-	padding-right: 20px;
-    	padding-bottom: 500px;
 }
 
 
@@ -69,9 +73,7 @@ body{
     display:inline-block;
     cursor: pointer;
 }
-.tabwords{
 
-}
 
 #tyler{
     

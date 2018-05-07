@@ -1,6 +1,4 @@
-body{
-	background-color: #A9B780;
-}
+
 
 p{
 	font-size: 1.5em;
@@ -9,6 +7,14 @@ p{
 h2{
 	text-align: center;
 }
+
+#buttonColour{
+	background-color: #A9B780;
+}
+#buttonColour:hover{
+	background-color: #b5c191;
+}
+
 #contentContainer{
 	padding-top: 100px;
 	height:100%;
@@ -26,16 +32,16 @@ h2{
 	display:inline-block;
 }
 .album1{
-	background-color: #a3b276;
+	background-color: #91A065;
 }
 .album2{
-	background-color: #91a065;
+	background-color: #7C8C4E;
 }
 .album3{
-	background-color: #7c8c4e;
+	background-color: #718241;
 }
 .album4{
-	background-color: #718241;
+	background-color: #5e6d2f;
 }
 
 .coverContainer{

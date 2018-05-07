@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/exenaroth/Odd-Future-Website/issues"
   },
-  "homepage": "https://github.com/exenaroth/Odd-Future-Website#readme"
+  "homepage": "https://github.com/exenaroth/Odd-Future-Website#readme",
+  "dependencies": {
+    "angular": "^1.6.10"
+  }
 }
